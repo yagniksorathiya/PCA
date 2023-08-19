@@ -7,7 +7,7 @@ Perform Principal component analysis and perform clustering using first
 optimum number of clusters and check whether we have obtained same number of clusters with the original data 
 (class column we have ignored at the begining who shows it has 3 clusters)df
 
-# Principal Component Analysis (PCA)
+# ➳ Principal Component Analysis (PCA)
 
 ## Intuition, theories, and application issues
 
